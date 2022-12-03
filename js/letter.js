@@ -6,7 +6,7 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["Thôi thì chưa đến sinh nhật của em nhưng anh chúc sớm luôn kkk. Chúc em tuổi mới luôn xinh đẹp và khỏe mạnh. Cầu mong những gì may mắn nhất và tốt đẹp nhấttt đến Bảo Bảo.<br/><br/><br/> <div style='font-weight:bold;'>Happy Birthday Em!</div>"],
+			strings: ["Chưa đến sinh nhật của em nhưng anh chúc sớm luôn kkk. Chúc em tuổi mới luôn xinh đẹp và khỏe mạnh. Cầu mong những gì may mắn nhất và tốt đẹp nhấttt đến Bảo Bảo.<br/><br/><br/> <div style='font-weight:bold;'>Happy Birthday Em!</div>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
